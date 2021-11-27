@@ -1,0 +1,86 @@
+@font-face {
+	font-family: BankGothic;
+	src: url("bankgothic.ttf");
+}
+@font-face {
+	font-family: Roboto-Black;
+	src: url("Roboto-Black.ttf");
+}
+img#logo {
+	height: 15em;
+	width: auto;
+	margin-top: 5vw;
+	margin-bottom: 2vw;
+	transition: all 150ms ease-in-out;
+}
+body {
+	background-image: url(image/back_kayit1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+
+    background-position: center center;
+}
+input {
+	width: 330px;
+	padding: 9px 30px;
+	margin: 7px 0;
+	display: inline-block;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	color: white;
+	background: transparent;
+}
+::placeholder {
+	color: white;
+}
+form {
+	margin-top: 50px;
+	max-width: 350px;
+}
+option {
+	color: black;
+}
+input[type=submit]#sign_up {
+	width: 330px;
+	opacity: 0.8;
+	background-color: white;
+	font-size: 20px;
+	color: #1a001a;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+input[type=submit]#sign_up:hover {
+	background-color: lightgrey;
+	color: black;
+}
+img#logo:hover {
+	opacity: 0.6;
+	cursor: pointer;
+}
+@media screen and (max-width: 767px) {
+	img#logo {
+		height: 10em;
+		width: auto;
+		margin-bottom: 20%;
+	}
+	form {
+		margin-top: 10px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	img#logo {
+		height: 10em;
+		width: auto;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	img#logo {
+		height: 10em;
+		width: auto;
+	}
+}
