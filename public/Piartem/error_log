@@ -1,0 +1,229 @@
+[07-Apr-2018 15:30:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'datberkant'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 15:34:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 15:35:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 15:35:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 15:42:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/wp5kgtotrtlz/public_html/Register.php on line 35
+[07-Apr-2018 15:42:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/wp5kgtotrtlz/public_html/Register.php on line 35
+[07-Apr-2018 15:43:35 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/wp5kgtotrtlz/public_html/Register.php on line 35
+[07-Apr-2018 15:44:36 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/wp5kgtotrtlz/public_html/Register.php on line 35
+[07-Apr-2018 15:50:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/wp5kgtotrtlz/public_html/Register.php on line 35
+[07-Apr-2018 15:56:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:02:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:02:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:05:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:06:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:07:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:09:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:10:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:10:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:10:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:14:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:14:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:14:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 13
+[07-Apr-2018 16:14:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wp5kgtotrtlz/public_html/Register.php on line 14
+[07-Apr-2018 16:14:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 18
+[07-Apr-2018 16:14:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 26
+[07-Apr-2018 16:19:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 13
+[07-Apr-2018 16:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wp5kgtotrtlz/public_html/Register.php on line 14
+[07-Apr-2018 16:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 18
+[07-Apr-2018 16:19:35 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 26
+[07-Apr-2018 16:21:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:21:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 13
+[07-Apr-2018 16:21:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wp5kgtotrtlz/public_html/Register.php on line 14
+[07-Apr-2018 16:21:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 19
+[07-Apr-2018 16:21:38 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 27
+[07-Apr-2018 16:22:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wp5kgtotrtlz'@'ip-160-153-128-27.ip.secureserver.net' (using password: YES) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[07-Apr-2018 16:22:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 13
+[07-Apr-2018 16:22:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wp5kgtotrtlz/public_html/Register.php on line 14
+[07-Apr-2018 16:22:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 19
+[07-Apr-2018 16:22:02 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/Register.php on line 27
+[08-Apr-2018 15:58:06 UTC] PHP Notice:  Undefined variable: result in /home/wp5kgtotrtlz/public_html/Register.php on line 16
+[08-Apr-2018 15:58:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wp5kgtotrtlz/public_html/Register.php on line 16
+[08-Apr-2018 15:58:42 UTC] PHP Notice:  Undefined variable: result in /home/wp5kgtotrtlz/public_html/Register.php on line 16
+[08-Apr-2018 15:58:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wp5kgtotrtlz/public_html/Register.php on line 16
+[08-Apr-2018 15:59:20 UTC] PHP Notice:  Undefined variable: result in /home/wp5kgtotrtlz/public_html/Register.php on line 16
+[08-Apr-2018 15:59:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wp5kgtotrtlz/public_html/Register.php on line 16
+[08-Apr-2018 16:03:39 UTC] PHP Notice:  Undefined index: username in /home/wp5kgtotrtlz/public_html/Register.php on line 74
+[08-Apr-2018 16:06:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wp5kgtotrtlz/public_html/Register.php on line 57
+[08-Apr-2018 16:06:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wp5kgtotrtlz/public_html/Register.php on line 57
+[11-Apr-2018 13:00:50 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/Register.php on line 27
+[11-Apr-2018 13:21:33 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/Register.php on line 27
+[11-Apr-2018 13:23:32 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/Register.php on line 22
+[11-Apr-2018 13:24:00 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/Register.php on line 22
+[11-Apr-2018 13:24:30 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/Register.php on line 22
+[11-Apr-2018 13:25:19 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/Register.php on line 22
+[11-Apr-2018 13:30:49 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/Register.php on line 21
+[11-Apr-2018 13:31:45 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/Register.php on line 21
+[11-Apr-2018 13:35:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/wp5kgtotrtlz/public_html/register.php on line 66
+[11-Apr-2018 13:35:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/wp5kgtotrtlz/public_html/register.php on line 66
+[11-Apr-2018 13:36:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/wp5kgtotrtlz/public_html/register.php on line 66
+[11-Apr-2018 13:36:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/wp5kgtotrtlz/public_html/register.php on line 66
+[11-Apr-2018 13:37:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/wp5kgtotrtlz/public_html/register.php on line 65
+[11-Apr-2018 13:41:49 UTC] PHP Notice:  Undefined variable: password in /home/wp5kgtotrtlz/public_html/register.php on line 39
+[11-Apr-2018 13:42:40 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 13:45:07 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 13:46:07 UTC] PHP Notice:  Undefined variable: name in /home/wp5kgtotrtlz/public_html/register.php on line 39
+[11-Apr-2018 13:46:14 UTC] PHP Notice:  Undefined variable: name in /home/wp5kgtotrtlz/public_html/register.php on line 39
+[11-Apr-2018 13:46:39 UTC] PHP Notice:  Undefined variable: name in /home/wp5kgtotrtlz/public_html/register.php on line 39
+[11-Apr-2018 13:52:03 UTC] PHP Notice:  Undefined variable: name in /home/wp5kgtotrtlz/public_html/register.php on line 39
+[11-Apr-2018 13:52:30 UTC] PHP Notice:  Undefined variable: name in /home/wp5kgtotrtlz/public_html/register.php on line 39
+[11-Apr-2018 13:53:16 UTC] PHP Notice:  Undefined variable: name in /home/wp5kgtotrtlz/public_html/register.php on line 39
+[11-Apr-2018 13:53:55 UTC] PHP Notice:  Undefined index: repeat in /home/wp5kgtotrtlz/public_html/register.php on line 36
+[11-Apr-2018 13:53:55 UTC] PHP Notice:  Undefined variable: name in /home/wp5kgtotrtlz/public_html/register.php on line 39
+[11-Apr-2018 13:55:07 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 13:55:49 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 13:58:22 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 13:58:45 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 13:59:04 UTC] PHP Notice:  Undefined variable: utf_name in /home/wp5kgtotrtlz/public_html/register.php on line 36
+[11-Apr-2018 13:59:28 UTC] PHP Notice:  Undefined variable: _name in /home/wp5kgtotrtlz/public_html/register.php on line 36
+[11-Apr-2018 14:00:03 UTC] PHP Notice:  Undefined variable: _name in /home/wp5kgtotrtlz/public_html/register.php on line 36
+[11-Apr-2018 14:00:07 UTC] PHP Notice:  Undefined variable: _name in /home/wp5kgtotrtlz/public_html/register.php on line 36
+[11-Apr-2018 14:00:07 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 14:01:04 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 14:02:56 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 14:03:33 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 14:05:21 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 26
+[11-Apr-2018 14:13:04 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 14:13:33 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 14:14:37 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 14:15:35 UTC] PHP Notice:  Undefined variable: surname in /home/wp5kgtotrtlz/public_html/register.php on line 21
+[11-Apr-2018 14:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wp5kgtotrtlz/public_html/register.php:19
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(57): User->registerUser('ege\xC5\x9Fmmsdf', 'asda\xC5\x9F\xC5\x9Fii', 'qa\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fqxsda...', '34234234', 'i\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fr', 'askjfh', '05356665256', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 19
+[11-Apr-2018 14:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wp5kgtotrtlz/public_html/register.php:19
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(57): User->registerUser('ege\xC5\x9Fmmsdf', 'asda\xC5\x9F\xC5\x9Fii', 'qa\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fqxsda...', '34234234', 'i\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fr', 'askjfh', '05356665256', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 19
+[11-Apr-2018 14:25:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/wp5kgtotrtlz/public_html/register.php:19
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(57): User->registerUser('ege\xC5\x9Fmmsdf', 'asda\xC5\x9F\xC5\x9Fii', 'qa\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fqxsda...', '34234234', 'i\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fr', 'askjfh', '05356665256', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 19
+[11-Apr-2018 14:27:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 14:27:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/wp5kgtotrtlz/public_html/register.php:13
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(58): User->registerUser('ege\xC5\x9Fmmsdf', 'asda\xC5\x9F\xC5\x9Fii', 'qa\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fqxsda...', '34234234', 'i\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fr', 'askjfh', '05356665256', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 14:27:59 UTC] PHP Notice:  Undefined variable: mysqli in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 14:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/wp5kgtotrtlz/public_html/register.php:13
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(57): User->registerUser('ege\xC5\x9Fmmsdf', 'asda\xC5\x9F\xC5\x9Fii', 'qa\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fqxsda...', '34234234', 'i\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9F\xC5\x9Fr', 'askjfh', '05356665256', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:05:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/wp5kgtotrtlz/public_html/register.php:13
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(57): User->registerUser('pdofsfpsdofsdof...', 'asdasd', 'asdasdasd@sadas...', 'Sanat eseri sat...', '\xC5\x9Eehriniz (Opsi...', 'asddddddddddddd...', '4', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:05:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/wp5kgtotrtlz/public_html/register.php:13
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(57): User->registerUser('pdofsfpsdofsdof...', 'asdasd', 'asdasdasd@sadas...', 'Sanat eseri sat...', '\xC5\x9Eehriniz (Opsi...', 'asddddddddddddd...', '4', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:05:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/wp5kgtotrtlz/public_html/register.php:13
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(57): User->registerUser('pdofsfpsdofsdof...', 'asdasd', 'asdasdasd@sadas...', 'Sanat eseri sat...', '\xC5\x9Eehriniz (Opsi...', 'asddddddddddddd...', '4', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:05:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/wp5kgtotrtlz/public_html/register.php:13
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(57): User->registerUser('pdofsfpsdofsdof...', 'asdasd', 'asdasdasd@sadas...', 'Sanat eseri sat...', '\xC5\x9Eehriniz (Opsi...', 'asddddddddddddd...', '4', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 13
+[11-Apr-2018 15:43:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/wp5kgtotrtlz/public_html/register.php:19
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(66): User->registerUser('degemene\xC5\x9F', 'co\xC5\x9Fkun\xC3\xA7\xC3\xA7\xC3\xA7', 'w23jJjhasnahas', '2jf8vt4bfyv4', ' ', ' ', ' ', ' ')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 19
+[11-Apr-2018 15:44:16 UTC] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home/wp5kgtotrtlz/public_html/register.php on line 19
+[11-Apr-2018 15:46:07 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ')' in /home/wp5kgtotrtlz/public_html/register.php on line 19
+[11-Apr-2018 15:50:36 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 28
+[11-Apr-2018 15:51:02 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 28
+[11-Apr-2018 15:52:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/wp5kgtotrtlz/public_html/DBConnection.php on line 10
+[11-Apr-2018 15:52:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/register.php on line 14
+[11-Apr-2018 15:52:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wp5kgtotrtlz/public_html/register.php on line 15
+[11-Apr-2018 15:52:16 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/register.php on line 18
+[11-Apr-2018 15:52:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/register.php on line 20
+[11-Apr-2018 15:52:16 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wp5kgtotrtlz/public_html/register.php on line 28
+[11-Apr-2018 15:53:41 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 15:54:58 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 16:02:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::registerUser(), 7 passed in /home/wp5kgtotrtlz/public_html/register.php on line 56 and exactly 8 expected in /home/wp5kgtotrtlz/public_html/register.php:12
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(56): User->registerUser('Deniz Egemen', 'Co\xC5\x9Fkun', 'degemenem@gmail...', 'Sanat eseri alm...', 'Afyon', 'iyt enstit\xC3\xBCs\xC3\xBC', '05356665256')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 12
+[11-Apr-2018 16:02:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::registerUser(), 7 passed in /home/wp5kgtotrtlz/public_html/register.php on line 56 and exactly 8 expected in /home/wp5kgtotrtlz/public_html/register.php:12
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(56): User->registerUser('Deniz Egemen', 'Co\xC5\x9Fkun', 'degemenem@gmail...', 'Sanat eseri alm...', 'Afyon', 'iyt enstit\xC3\xBCs\xC3\xBC', '05356665256')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 12
+[11-Apr-2018 16:03:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::registerUser(), 7 passed in /home/wp5kgtotrtlz/public_html/register.php on line 56 and exactly 8 expected in /home/wp5kgtotrtlz/public_html/register.php:12
+Stack trace:
+#0 /home/wp5kgtotrtlz/public_html/register.php(56): User->registerUser('Deniz Egemen', 'Co\xC5\x9Fkun', 'degemenem@gmail...', 'Sanat eseri alm...', 'Afyon', '', '05356665256')
+#1 {main}
+  thrown in /home/wp5kgtotrtlz/public_html/register.php on line 12
+[11-Apr-2018 16:06:31 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 16:07:33 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 16:09:32 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 16:11:22 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 16:11:29 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 16:24:00 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 16:48:26 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 16:55:25 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 19:05:40 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 21:10:04 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 21:10:17 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 21:36:04 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[11-Apr-2018 22:23:36 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[12-Apr-2018 04:46:24 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[12-Apr-2018 07:48:41 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[12-Apr-2018 08:33:03 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[12-Apr-2018 19:06:42 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[14-Apr-2018 08:20:02 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[14-Apr-2018 15:07:21 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[14-Apr-2018 19:42:56 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[14-Apr-2018 23:00:12 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[15-Apr-2018 07:16:47 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[16-Apr-2018 14:57:49 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[17-Apr-2018 07:44:31 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[18-Apr-2018 13:27:26 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[22-Apr-2018 17:31:45 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[22-Apr-2018 17:32:07 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[23-Apr-2018 18:49:38 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[26-Apr-2018 18:19:25 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[27-Apr-2018 09:06:13 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[30-Apr-2018 15:35:09 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:26:31 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:36:15 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:36:59 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:36:59 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:36:59 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:36:59 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:37:00 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:37:28 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:37:29 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:37:29 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:37:29 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[04-May-2018 21:37:29 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[08-May-2018 15:04:03 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[08-May-2018 15:51:02 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[13-May-2018 05:58:42 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[13-May-2018 19:38:32 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[13-May-2018 19:39:07 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[13-May-2018 19:43:39 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[13-May-2018 19:50:00 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[14-May-2018 08:00:56 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[14-May-2018 12:13:44 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[14-May-2018 21:13:13 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[15-May-2018 15:02:01 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[15-May-2018 19:59:03 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
+[25-May-2018 22:36:58 UTC] PHP Notice:  Undefined variable: json in /home/wp5kgtotrtlz/public_html/register.php on line 27
