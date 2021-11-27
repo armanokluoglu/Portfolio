@@ -1,12 +1,14 @@
 .monogram {
   fill: var(--colorTextTitle);
   transition: fill var(--durationL) ease;
+  border: 5px solid transparent;
 }
 
 .monogram__highlight {
   fill: rgb(var(--rgbAccent));
+  border: 5px solid transparent;
   opacity: 0;
-  transform: scale3d(1, 0, 1);
+  transform: scale3d(0.75, 0, 0.75);
   transform-origin: top;
   transition: opacity 0.1s ease var(--durationM);
 
@@ -22,7 +24,8 @@ a:focus .monogram__highlight,
 a:hover .monogram__highlight,
 .monogram:hover .monogram__highlight {
   opacity: 1;
-  transform: scale3d(1, 1, 1);
+  border: 5px solid transparent;
+  transform: scale3d(0.75, 0.75, 0.75);
   transform-origin: bottom;
   transition: opacity 0.1s ease;
 
